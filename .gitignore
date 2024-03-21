@@ -1,0 +1,8 @@
+db.sqlite3
+venv
+client
+__pycache__
+staticfiles/
+
+# environment variables
+.env.local
